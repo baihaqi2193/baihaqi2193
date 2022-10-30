@@ -4,7 +4,7 @@
 </hr>
 <p align="center"><img src="https://steam-stat.vercel.app/api?profileName=302010379"/></p>
 </hr>
-</br>
+
 - 🌱 I’m currently learning:  **Web Development, Computer Science**
 
 - 📫 How to reach me:  **baihaqi2193@students.undip.ac.id**
