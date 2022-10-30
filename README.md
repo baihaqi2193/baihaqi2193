@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me: instagram.com/baiihaqiii_
+- ⚡ Fun fact: I will not eat your cookies!
+
 <!--
 **baihaqi2193/baihaqi2193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
