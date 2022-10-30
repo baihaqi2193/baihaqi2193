@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, i'm Baihaqi 👋
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: instagram.com/baiihaqiii_
 - ⚡ Fun fact: I will not eat your cookies!
