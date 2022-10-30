@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Baihaqi</h1>
 <h3 align="center">💻Coder, 🖼️Graphic Designer, 🎮Gamer</h3>
-<p align="center"><img src="https://steam-stat.vercel.app/api?profileName=302010379"/></p>
 
+</hr>
+<p align="center"><img src="https://steam-stat.vercel.app/api?profileName=302010379"/></p>
+</hr>
+</br>
 - 🌱 I’m currently learning:  **Web Development, Computer Science**
 
 - 📫 How to reach me:  **baihaqi2193@students.undip.ac.id**
