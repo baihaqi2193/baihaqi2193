@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baihaqi</h1>
 <h3 align="center">💻Coder, 🖼️Graphic Designer, 🎮Gamer</h3>
 
-- 🌱 I’m currently learninginging **Web Development, Computer Science**
+- 🌱 I’m currently learning:  **Web Development, Computer Science**
 
-- 📫 How to reach me **baihaqi2193@students.undip.ac.id**
+- 📫 How to reach me:  **baihaqi2193@students.undip.ac.id**
 
-- ⚡ Fun fact **I would not eat your cookies**
+- ⚡ Fun fact:  **I would not eat your cookies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
