@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baihaqi</h1>
-<h3 align="center">💻Coder, 🖼️Graphic Designer, 🎮Gamer</h3>
+<h3 align="center">💻Coder, 🖼️Graphic Designer, 🎮Player</h3>
 </br>
 
 <p align="center"><img src="https://steam-stat.vercel.app/api?profileName=302010379"/></p>
