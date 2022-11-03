@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:  **baihaqi2193@students.undip.ac.id**
 
-- ⚡ Fun fact:  **I would not eat your cookies**
+- ⚡ Fun fact:  **I will not eat your cookies**
 
 <h3 align="left">Socials</h3>
 <p align="left">
