@@ -6,9 +6,7 @@
 </br>
 
 - 🌱 I’m currently learning:  **Web Development, Computer Science**
-
 - 📫 How to reach me:  **baihaqi2193@students.undip.ac.id**
-
 - ⚡ Fun fact:  **I will not eat your cookies**
 
 <h3 align="left">Socials</h3>
